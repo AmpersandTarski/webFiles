@@ -1,8 +1,10 @@
 # wiki-materials
 This repo contains files to which we want to refer from pages in [https://github.com/AmpersandTarski/ampersand/wiki]
 
-It is intended to be a store for files, not as a sort of FTP-site in which files need to be organized in a way that accommodates non-authors of the wiki.
-Therefore, it is suggested that you maintain your files in a directory of your own.
-Only after a clear consensus has been reached (to be documented in this readme file), should other directories be made.
+Its first intention is to act as a store for files that are referred to from the Wiki from all sorts of places.
+To do so efficiently, it is suggested that
+- every author maintains a directory of his own, in which he can store pictures and other 'irregular' stuff.
+- a directory is created for each kind of content that we would expect to find 'together'. 
+  An example of this would be 'literature'. 
 
-Note that you should only move or delete files from this repo if you are sure that all links in the wiki that refer to those files, are changed or deleted accordingly.
+We expect anyone that stores content in this repo will see to it that the stored content will be appropriately maintained. Files should only be moved or deleted if you are sure that all links in the wiki that refer to those files, are changed or deleted accordingly.
