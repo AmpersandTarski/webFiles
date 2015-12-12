@@ -1,4 +1,4 @@
-## binary versions of Ampersand
+## Binary versions of Ampersand
 
 In this directory we keep binary versions of ampersand. These versions are linked to from the ampersand documentation, as a convienience service to users. 
 
