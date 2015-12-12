@@ -1,6 +1,6 @@
 ## Binary versions of Ampersand
 
-In this directory we keep binary versions of ampersand. These versions are linked to from the ampersand documentation, as a convienience service to users. 
+In this directory we keep binary versions of ampersand. These versions are linked to from the [ampersand documentation](https://github.com/AmpersandTarski/documentation), as a convienience service to users. 
 
 Please add a file VERSION.txt at every release, containing the output of `ampersand --version` 
 
